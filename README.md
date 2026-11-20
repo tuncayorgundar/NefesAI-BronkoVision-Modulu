@@ -42,35 +42,32 @@ Akciğer kanseri, dünyada kansere bağlı ölümlerin başında gelir. Bir hast
 | Model kararları | Kara kutu | Isı haritalarıyla açıklanabilir |
  
 ## Demo
- 
-<!--
-  Videoları eklemek için: GitHub'da README'yi düzenlerken her mp4 dosyasını editöre sürükleyip bırakın.
-  GitHub'ın ürettiği https://github.com/user-attachments/assets/... bağlantısını kopyalayıp
-  aşağıdaki ilgili src="..." değerinin yerine yapıştırın, ardından editörde kalan bağlantı satırını silin.
--->
- 
+
 <table>
   <tr>
     <td align="center" width="33%">
-      <video src="https://github.com/tuncayorgundar/assets/Bronkovision.mp4" controls muted width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/ffd47fe5-ed3d-424b-a122-c77422d6f9de" controls muted width="100%"></video>
     </td>
     <td align="center" width="33%">
-      <video src="https://github.com/tuncayorgundar/assets/Biyoanaliz.mp4" controls muted width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/d7eb0809-2093-488d-8358-d46282456422" controls muted width="100%"></video>
     </td>
     <td align="center" width="33%">
-      <video src="https://github.com/tuncayorgundar/assets/Dozoptimize.mp4" controls muted width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/b432c627-cd99-4dee-8ca9-66f9584419f" controls muted width="100%"></video>
     </td>
   </tr>
- 
- 
   <tr>
     <td align="center"><b>BronkoVision</b><br/><sub>Görüntü analizi</sub></td>
     <td align="center"><b>BiyoAnaliz</b><br/><sub>Biyobelirteç analizi</sub></td>
     <td align="center"><b>DozOptimize</b><br/><sub>Doz optimizasyonu</sub></td>
   </tr>
 </table>
+
 <p align="center"><sub><i>Test ve tanıtım amaçlı ekran kaydıdır. Görüntülenen hasta bilgileri, değerler ve skorlar demo verisidir.</i></sub><br/><sub>Videoları tam ekran izlemek için oynatıcıdaki tam ekran düğmesini kullanabilirsiniz.</sub></p>
+
 ## Platform mimarisi
+
+
+
  
 OnkoNixAI, birbirini besleyen üç modülden oluşur:
  
