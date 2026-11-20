@@ -52,7 +52,7 @@ Akciğer kanseri, dünyada kansere bağlı ölümlerin başında gelir. Bir hast
       <video src="https://github.com/user-attachments/assets/d7eb0809-2093-488d-8358-d46282456422" controls muted width="100%"></video>
     </td>
     <td align="center" width="33%">
-      <video src="https://github.com/user-attachments/assets/b432c627-cd99-4dee-8ca9-66f9584419f" controls muted width="100%"></video>
+      <video src="https://github.com/user-attachments/assets/f3127731-791f-4140-83be-40aa3883a8a7" controls muted width="100%"></video>
     </td>
   </tr>
   <tr>
